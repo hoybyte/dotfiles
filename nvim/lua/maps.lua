@@ -1,0 +1,1 @@
+print('maps.lua loaded')
