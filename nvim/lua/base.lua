@@ -19,7 +19,6 @@ vim.opt.backupskip = '/tmp/*,/private/temp/*'
 vim.opt.inccommand = 'split'
 vim.opt.ignorecase = true
 vim.opt.smarttab = true
-vim.opt.breakpoint = true
 vim.opt.shiftwidth = 2
 vim.opt.tabstop = 2
 vim.opt.ai = true -- Auto indent
