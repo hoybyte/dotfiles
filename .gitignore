@@ -1,0 +1,8 @@
+# Neovim runtime
+.local/share/nvim
+.local/state/nvim
+.cache/nvim
+
+# Fish
+fish/fish_variables
+fish/conf.d/local.fish
